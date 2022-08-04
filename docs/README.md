@@ -1,0 +1,1 @@
+this folder contains a preview of what a generated html file might look like
